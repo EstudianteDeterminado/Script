@@ -11,7 +11,7 @@
 // Pedir una variable y que se convierta en número
 // const = variable constante permanente
 
-let num = parseInt(prompt("Escribe tu número"));
+let numeroEntero = parseInt(prompt("Escribe tu número"));
 
 //Creamos un bucle   --->  Las sentencias se ejecuta una cantidad de veces 
 

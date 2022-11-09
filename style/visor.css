@@ -1,0 +1,49 @@
+/* Se ejecuta en toda la página */
+*{
+    margin: auto;
+    padding: 0;
+    text-align: center;
+}
+
+#cabecera{
+    /* Letra en negrita */
+    font: bold 1.3em Verdana;
+    /* font-weight: bold; 
+    font-size: 1.3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    padding: 0.5em;
+}
+
+#menu{
+    float: left;
+    width: 25%;
+    background-color: antiquewhite;
+}
+
+#menu img{
+    width: 35%;
+    height: 5%;
+    cursor: pointer;
+    
+}
+
+#principal{
+    float: left;
+    width: 65%;
+}
+
+#visor{
+    width: 60%;
+    margin: 10%;
+    min-width: 300px;
+    min-height: 300px;
+}
+
+#visor img{
+    width: 100%;
+}
