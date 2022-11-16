@@ -51,7 +51,8 @@ div{
 
 
 p{
-    color: slategray;
+    color: rgb(77, 54, 54);
+    
 }
 
 img{
@@ -70,7 +71,9 @@ img:hover{
     /* -webkit-box-reflect: below; */
 }
 
-
+#p1{
+    color: slategrey
+}
 
 
 
@@ -109,7 +112,7 @@ img:hover{
     text-align: justify;
     border-bottom: 1px solid black;
     display: block;
-    color:cadetblue;
+    color:rgba(107, 209, 212, 0.5);
     text-decoration: none;
     padding: 8px 0px 8px 16px;
     font-size: 16px;

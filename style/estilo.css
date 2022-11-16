@@ -64,7 +64,25 @@ div{
     background-color: #5748487d;
 }
 
+.parrafo5{
+    background-color: #997d7d7d;
+}
 
+img{
+
+    border-radius: 10px;
+    width: 25%;
+    /* tamaño - tipo - color */
+    border: 2px solid rgb(128, 37, 37);
+    padding: 2px;     /*espacio interno*/
+    display: block;
+
+}
+
+img:hover{
+    transform:scaleX(-1);
+    /* -webkit-box-reflect: below; */
+}
 
 
 
